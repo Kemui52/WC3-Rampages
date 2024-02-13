@@ -1,0 +1,24 @@
+Custom Constants:
+hero max level	30
+
+Map Themes:
+BootyBay
+  kinda flat, human settlement?
+
+DragonMountain
+  all dragons
+
+Forestwalk
+  nature-y for girl
+
+IsleOfDread
+  razormanes, harpies, thunder lizards
+
+Nighthaven
+  yucky swamp
+
+
+
+
+
+Once a noble knight of Dragon Shire, the Dragon Knight was cursed by Queen Nightshade into his monstrous form.
