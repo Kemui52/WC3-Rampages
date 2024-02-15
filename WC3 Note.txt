@@ -4,6 +4,8 @@ hero max level	30
 Map Themes:
 BootyBay
   kinda flat, human settlement?
+DeadwaterDrop
+  kinda flat
 
 DragonMountain
   all dragons
@@ -16,6 +18,29 @@ IsleOfDread
 
 Nighthaven
   yucky swamp
+
+HarvestMoon
+  autumn
+
+LostTemple
+  temple for titan to reclaim
+
+TheGlaive
+  barrens
+DrywaterGulch
+  make a dinosaur land
+
+Stormguarde
+  city
+
+Plaguelands
+  demon swamp
+
+PlainsOfSnow
+  snow
+
+Human01
+  orcs invade village
 
 
 
