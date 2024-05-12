@@ -1,6 +1,13 @@
 Custom Constants:
 hero max level	30
 
+Sound Overrides:
+squish
+Sound\Units\Death\ArtilleryCorpseExplodeDeath1.wav
+
+squishdragon
+Units\Creeps\AzureDragon\DragonDeath1.wav
+
 Map Themes:
 BootyBay
   kinda flat, human settlement?
@@ -9,9 +16,6 @@ DeadwaterDrop
 
 DragonMountain
   all dragons
-
-Forestwalk
-  nature-y for girl
 
 IsleOfDread
   razormanes, harpies, thunder lizards
@@ -41,8 +45,6 @@ PlainsOfSnow
 
 Human01
   orcs invade village
-Human02
-  small orc and human camps, plus dragon cave
 Human03
   two farms and a village
 
