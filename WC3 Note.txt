@@ -20,8 +20,8 @@ DragonMountain
 IsleOfDread
   razormanes, harpies, thunder lizards
 
-Nighthaven
-  yucky swamp
+BloodvenomFalls
+  swamp w/ satyrs and treeants
 
 HarvestMoon
   autumn
@@ -29,8 +29,11 @@ HarvestMoon
 LostTemple
   temple for titan to reclaim
 
+GnollWood
+  gnolls!
+
 TheGlaive
-  barrens
+  razormanes and wildkin in the barrens
 DrywaterGulch
   make a dinosaur land
 
@@ -39,6 +42,8 @@ Stormguarde
 
 Plaguelands
   demon swamp
+Nighthaven
+  swamp island
 
 PlainsOfSnow
   snow
@@ -47,6 +52,26 @@ Human01
   orcs invade village
 Human03
   two farms and a village
+Human04
+  village threatened by undead
+Human05
+  village and farms, two undead bases
+Human06
+  city with a zoo(?)
+Human07
+  undead bases in snowy mountains, other misc camps
+Human08
+  peninsulas with undead
+Human09
+  undead bases in large snowy mountain, slightly split up
+NightElf01
+  forest with a few humans and orcs
+NightElf02
+  undead invading a forest
+NightElf03
+  undead, orc, and night elf bases in river-y forest
+NightElf04
+  forest falling to corruption
 
 
 
