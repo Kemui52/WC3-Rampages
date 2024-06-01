@@ -8,6 +8,9 @@ Sound\Units\Death\ArtilleryCorpseExplodeDeath1.wav
 squishdragon
 Units\Creeps\AzureDragon\DragonDeath1.wav
 
+squishharpy
+Units\Creeps\Harpy\HarpyDeath.wav
+
 Map Themes:
 BootyBay
   kinda flat, human settlement?
