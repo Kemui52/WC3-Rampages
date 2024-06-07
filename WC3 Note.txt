@@ -69,12 +69,12 @@ Human09
   undead bases in large snowy mountain, slightly split up
 NightElf01
   forest with a few humans and orcs
-NightElf02
-  undead invading a forest
 NightElf03
   undead, orc, and night elf bases in river-y forest
 NightElf04
   forest falling to corruption
+NightElf05
+  underground cave and dungeon
 
 
 
