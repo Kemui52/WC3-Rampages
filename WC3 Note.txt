@@ -8,6 +8,10 @@ Sound\Units\Death\ArtilleryCorpseExplodeDeath1.wav
 squishdragon
 Units\Creeps\AzureDragon\DragonDeath1.wav
 
+squishgargoyle
+Units\Undead\Gargoyle\GargoyleDeath1.wav
+Units\Undead\Gargoyle\GargoyleDeathAlternate1.wav
+
 squishharpy
 Units\Creeps\Harpy\HarpyDeath.wav
 
