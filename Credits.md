@@ -4,6 +4,8 @@
 
 [Eonar the Lifebinder](https://www.hiveworkshop.com/threads/eonar-the-lifebinder.329987/) by Tier10Trash
 
+[Ettin (Cataclysm)](https://www.hiveworkshop.com/threads/ettin-cataclysm.348609/) by Zenonoth
+
 [Faceless One](https://www.hiveworkshop.com/threads/faceless-one-with-mace.340309/) by Nortuega
 
 [Pitlord WoW](https://www.hiveworkshop.com/threads/pitlord-wow-with-team-color.352464/) by wowcraft

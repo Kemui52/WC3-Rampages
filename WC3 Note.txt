@@ -20,12 +20,11 @@ BootyBay
   kinda flat, human settlement?
 DeadwaterDrop
   kinda flat
+Andorhal
+  city, lots of open area
 
 DragonMountain
   all dragons
-
-IsleOfDread
-  razormanes, harpies, thunder lizards
 
 BloodvenomFalls
   swamp w/ satyrs and treeants
