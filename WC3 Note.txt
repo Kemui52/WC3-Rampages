@@ -1,4 +1,5 @@
 Custom Constants:
+creeps guard return time 10000
 hero max level	30
 
 Sound Overrides:
