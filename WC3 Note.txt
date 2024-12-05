@@ -9,12 +9,18 @@ Sound\Units\Death\ArtilleryCorpseExplodeDeath1.wav
 squishdragon
 Units\Creeps\AzureDragon\DragonDeath1.wav
 
+squisheggsack
+Doodads\Dungeon\Terrain\EggSack\EggSackDeath1.wav
+
 squishgargoyle
 Units\Undead\Gargoyle\GargoyleDeath1.wav
 Units\Undead\Gargoyle\GargoyleDeathAlternate1.wav
 
 squishharpy
 Units\Creeps\Harpy\HarpyDeath.wav
+
+squishvulture
+Units\Critters\Vulture\VultureDeath1.wav
 
 Map Themes:
 BootyBay
@@ -79,6 +85,8 @@ NightElf04
   forest falling to corruption
 NightElf05
   underground cave and dungeon
+Orc01
+  shoreside barrens
 
 
 
