@@ -85,8 +85,22 @@ NightElf04
   forest falling to corruption
 NightElf05
   underground cave and dungeon
-Orc01
-  shoreside barrens
+Orc02
+  winding barrens w/ tauren escort & centaurs
+Orc02Interlude
+  small town razed by demons
+Orc03
+  several human bases & one orc, barrens
+Orc04
+  forest w/ elven bases
+Orc05
+  elves attacking orc bases
+Orc06
+  two human bases at barrens, harpy valley
+Orc07
+  hellish dungeon
+Orc08
+  fel orcs invade barrens
 
 
 
