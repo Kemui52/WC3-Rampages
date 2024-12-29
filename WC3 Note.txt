@@ -22,6 +22,9 @@ Units\Creeps\Harpy\HarpyDeath.wav
 squishvulture
 Units\Critters\Vulture\VultureDeath1.wav
 
+CityBuildingDeath1
+Sound\Buildings\Death\CityBuildingDeath1.wav
+
 Map Themes:
 BootyBay
   kinda flat, human settlement?
