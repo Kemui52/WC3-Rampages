@@ -6,6 +6,9 @@ Sound Overrides:
 squish
 Sound\Units\Death\ArtilleryCorpseExplodeDeath1.wav
 
+squishcouatl
+Units\Naga\WindSerpent\WingedSerpentDeath.wav
+
 squishdragon
 Units\Creeps\AzureDragon\DragonDeath1.wav
 
@@ -61,6 +64,9 @@ Plaguelands
 Nighthaven
   swamp island
 
+JungleFever
+  tropical isles
+
 PlainsOfSnow
   snow
 
@@ -104,9 +110,50 @@ Orc07
   hellish dungeon
 Orc08
   fel orcs invade barrens
+Prologue01
+  basic forest trail
+Prologue02
+  village w/ graveyard
+Undead01
+  winding village
+Undead02
+  village and fortified farms
+Undead03
+  elven towns
+Undead04
+  elven defensive
+Undead05
+  elven temple
+Undead06
+  many orcish bases in snow
+Undead07
+  magical temple
+Undead08
+  last stand against undead
+HumanX01
+  town ruins and invading undead
+HumanX02
+  many human bases and one undead base
+HumanX03
+  humans searching a ruined dungeon
+HumanX03Secret
+  outside dungeon
+HumanX04
+  short, empty path in hellfire barrens
+HumanX05
+  big fight in hellfire
+Human06X
+  fel dungeon
+NightElfX01
+  naga attacking night elf villages
+NightElfX02
+  tropical temple (outside)
+NightElfX03
+  sunken temple (inside)
+NightElfX04
+  naga camps at ruins
+NightElfX05
+  tropical w/ small ruins
 
 
 
-
-
-Once a noble knight of Dragon Shire, the Dragon Knight was cursed by Queen Nightshade into his monstrous form.
