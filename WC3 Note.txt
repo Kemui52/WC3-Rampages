@@ -154,6 +154,8 @@ NightElfX04
   naga camps at ruins
 NightElfX05
   tropical w/ small ruins
+NightElfX06
+  undead attacking towns in autumn
 
 
 
