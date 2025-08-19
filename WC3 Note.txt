@@ -59,15 +59,32 @@ DrywaterGulch
 Stormguarde
   city
 
+Northshire
+  city like island
+
 Plaguelands
   demon swamp
 Nighthaven
   swamp island
 
+WizardsRetreat
+  very deliberate bow-tie shape
+
 JungleFever
   tropical isles
+HurricaneIsle
+  big map
+
+ShrineOfTheAncients
+  long naga temple
+
+FullScaleAssault
+  horizontal snow
+Slalom
+  w/ mushrooms
 
 PlainsOfSnow
+IceCrown
   snow
 
 Human01
@@ -146,8 +163,6 @@ Human06X
   fel dungeon
 NightElfX01
   naga attacking night elf villages
-NightElfX02
-  tropical temple (outside)
 NightElfX03
   sunken temple (inside)
 NightElfX04
@@ -156,6 +171,12 @@ NightElfX05
   tropical w/ small ruins
 NightElfX06
   undead attacking towns in autumn
+NightElfX07
+  naga invading a temple town, undead south
+NightElfX08
+  undead along middle river
+OrcX01_05
+  many thunder lizards in the barrens
 
 
 
