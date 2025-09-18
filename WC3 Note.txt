@@ -179,4 +179,8 @@ OrcX01_05
   many thunder lizards in the barrens
 
 
-
+worldedit.exe
+- At 0x3BA2D0 replace 0x77 with 0x00
+Doing this makes custom files import to the map's root, which is how most custom models
+expect their textures. The vanilla game is fine with this, but unmodded editors may
+display models wrong due to the default import location being different.
