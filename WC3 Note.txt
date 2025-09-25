@@ -133,8 +133,6 @@ Prologue02
   village w/ graveyard
 Undead01
   winding village
-Undead02
-  village and fortified farms
 Undead03
   elven towns
 Undead04
@@ -179,8 +177,3 @@ OrcX01_05
   many thunder lizards in the barrens
 
 
-worldedit.exe
-- At 0x3BA2D0 replace 0x77 with 0x00
-Doing this makes custom files import to the map's root, which is how most custom models
-expect their textures. The vanilla game is fine with this, but unmodded editors may
-display models wrong due to the default import location being different.

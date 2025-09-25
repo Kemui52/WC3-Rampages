@@ -2,6 +2,8 @@
 
 [Archimonde](https://www.hiveworkshop.com/threads/archimonde.334950/) by LRAC
 
+[Aysa Cloudsinger](https://www.hiveworkshop.com/threads/aysa-cloudsinger-optimized.352432/) by Sarsaparilla, gy0243
+
 [Dodge Viper](https://www.hiveworkshop.com/threads/dodge-viper-nfs-mw.356568/) by culex12
 
 [Dragon Knight](https://www.hiveworkshop.com/threads/hots-dragon-knight-unit-hero.335100/) by Razorclaw_X
