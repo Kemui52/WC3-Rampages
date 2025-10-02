@@ -18,6 +18,8 @@
 
 [Feltotem Tauren (WoW)](https://www.hiveworkshop.com/threads/feltotem-tauren-pack-wow.357409/) by Navy
 
+Gnoll by Warcraft Sandbox's [Convertor](https://www.hiveworkshop.com/threads/wow-converter-export-wow-npcs-to-warcraft-3.363033/) 
+
 [Horse](https://www.hiveworkshop.com/threads/horses.328512/) by Draconian
 
 [Human Male HD Base Model](https://www.hiveworkshop.com/threads/human-male-hd-base-model-wow.329248/) by Vulfar
