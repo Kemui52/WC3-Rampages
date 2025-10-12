@@ -12,12 +12,18 @@ Units\Naga\WindSerpent\WingedSerpentDeath.wav
 squishdragon
 Units\Creeps\AzureDragon\DragonDeath1.wav
 
+squishdragonhawk
+Units\Creeps\WindSerpent\DragonHawkDeath1.wav
+
 squisheggsack
 Doodads\Dungeon\Terrain\EggSack\EggSackDeath1.wav
 
 squishgargoyle
 Units\Undead\Gargoyle\GargoyleDeath1.wav
 Units\Undead\Gargoyle\GargoyleDeathAlternate1.wav
+
+squishgryphonrider
+Units\Human\GryphonRider\GryphonRiderDeath1.wav
 
 squishharpy
 Units\Creeps\Harpy\HarpyDeath.wav
@@ -80,8 +86,6 @@ ShrineOfTheAncients
 
 FullScaleAssault
   horizontal snow
-Slalom
-  w/ mushrooms
 
 PlainsOfSnow
 IceCrown
