@@ -101,14 +101,10 @@ Human05
   village and farms, two undead bases
 Human06
   city with a zoo(?)
-Human07
-  undead bases in snowy mountains, other misc camps
 Human08
   peninsulas with undead
 Human09
   undead bases in large snowy mountain, slightly split up
-NightElf01
-  forest with a few humans and orcs
 NightElf03
   undead, orc, and night elf bases in river-y forest
 NightElf04

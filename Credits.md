@@ -24,11 +24,15 @@ Gnoll by Warcraft Sandbox's [Convertor](https://www.hiveworkshop.com/threads/wow
 
 [Human Male HD Base Model](https://www.hiveworkshop.com/threads/human-male-hd-base-model-wow.329248/) by Vulfar
 
+Pandaren Male by Warcraft Sandbox's [Convertor](https://www.hiveworkshop.com/threads/wow-converter-export-wow-npcs-to-warcraft-3.363033/) 
+
 [Pitlord WoW](https://www.hiveworkshop.com/threads/pitlord-wow-with-team-color.352464/) by wowcraft
 
 [Princess Peach](https://www.hiveworkshop.com/threads/princesspeach.47458/) by GreyArchon
 
 [Tauren Female HD Base Model](https://www.hiveworkshop.com/threads/tauren-female-hd-base-model-wow.356871/) by Navys
+
+Vulpera Male by Warcraft Sandbox's [Convertor](https://www.hiveworkshop.com/threads/wow-converter-export-wow-npcs-to-warcraft-3.363033/) 
 
 [Worgen Female Base Model](https://www.hiveworkshop.com/threads/worgen-base-model-pack.356893/) by Navys
 
