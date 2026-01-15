@@ -135,8 +135,6 @@ Undead01
   winding village
 Undead03
   elven towns
-Undead05
-  elven temple
 Undead06
   many orcish bases in snow
 Undead07

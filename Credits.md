@@ -32,6 +32,8 @@ Pandaren Male by Warcraft Sandbox's [Convertor](https://www.hiveworkshop.com/thr
 
 [Tauren Female HD Base Model](https://www.hiveworkshop.com/threads/tauren-female-hd-base-model-wow.356871/) by Navys
 
+Tauren Male by Warcraft Sandbox's [Convertor](https://www.hiveworkshop.com/threads/wow-converter-export-wow-npcs-to-warcraft-3.363033/) 
+
 Vulpera Female by Warcraft Sandbox's [Convertor](https://www.hiveworkshop.com/threads/wow-converter-export-wow-npcs-to-warcraft-3.363033/) 
 
 Vulpera Male by Warcraft Sandbox's [Convertor](https://www.hiveworkshop.com/threads/wow-converter-export-wow-npcs-to-warcraft-3.363033/) 
