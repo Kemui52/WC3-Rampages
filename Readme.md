@@ -6,7 +6,7 @@ Built off version 1.26.0.6401 of the classic edition (Frozen Throne).
 
 The sound resources and Rampage Objects file are not necessary to play. Maps are standalone.
 
-If you're curious to view these in the editor, be aware of the following hex edit:
+_If you're curious to view these in the editor, be aware of the following hex edit:_
 
 Inside ``worldedit.exe`` at ``0x3BA2D0``, replace ``0x77`` with ``0x00``.
 
