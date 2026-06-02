@@ -25,6 +25,9 @@ Units\Undead\Gargoyle\GargoyleDeathAlternate1.wav
 squishgryphonrider
 Units\Human\GryphonRider\GryphonRiderDeath1.wav
 
+squishgyrocopter
+Units\Human\Gyrocopter\GyrocopterDeath1.wav
+
 squishharpy
 Units\Creeps\Harpy\HarpyDeath.wav
 
@@ -137,8 +140,6 @@ Undead03
   elven towns
 Undead06
   many orcish bases in snow
-Undead07
-  magical temple
 Undead08
   last stand against undead
 HumanX01
@@ -161,8 +162,6 @@ NightElfX03
   sunken temple (inside)
 NightElfX04
   naga camps at ruins
-NightElfX05
-  tropical w/ small ruins
 NightElfX06
   undead attacking towns in autumn
 NightElfX07
